@@ -12,19 +12,19 @@ https://editor.p5js.org
 Apos entrar, deve criar duas pastas.
 
 <h3>imagens:</h3>
-> Nela deve conter todos os arquivos que estão dentro de imagens.zip
-> É todas as imagens ultilizadas no jogo. 
+> Nela deve conter todos os arquivos que estão dentro de imagens.zip<br>
+> É todas as imagens ultilizadas no jogo. <br><br>
 
 <h3>sons:</h3>
-> Nela deve conter todos os arquivos que estão dentro de sons.zip
-> É todos os sons ultilizados no jogo.
+> Nela deve conter todos os arquivos que estão dentro de sons.zip<br>
+> É todos os sons ultilizados no jogo.<br><br>
 
 <h2>Apos isto, dar upload nos seguintes arquivos js quem contém:</h2> 
 <h3>ator.js</h3>
 <h4>Codigo do personagem jogavel (vaquinha):</h4>
 > Função  mostraAtor():<br>
       <p>
-      Desenha o ator na tela. <br><br>
+      &nbsp;Desenha o ator na tela. <br>
       </p>
 > Função movimentaAtor():<br>
       Movimenta o ator ultilizando as teclas UP_ARROW e DOWN_ARROW.<br><br>
