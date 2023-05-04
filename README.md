@@ -1,4 +1,10 @@
-<h1>Jogo baseado em Freeaway</h1>
+# Índice
+* [Imagens](#imagens)
+* [Sons](#sons)
+<h1 align="center">Jogo baseado em Freeaway</h1>
+<p align="center">
+<a  href="https://imgur.com/qrK6n95"><img src="https://i.imgur.com/qrK6n95.png" title="source: imgur.com" /></a><br>
+</p>
 > Feito apartir das aulas da Alura
 
 Para rodar este jogo deve ir no site:
