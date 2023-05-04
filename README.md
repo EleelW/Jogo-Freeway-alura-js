@@ -116,17 +116,17 @@ https://p5js.org
       <h2>Apos isto, dar upload no arquivo HTML e no arquivo CSS:</h2>
       <h2 align="center">index.html</h2>
       <p>
-            >Arquivo que indexa todos os codigos Java script em um HTML.
+            >Arquivo que indexa todos os codigos Java script em um HTML.<br>
       </p>
-      <h2 align="center">style.css</h2>
+      <h2 align="center">style.css</h2><br>
       <p>
-            >Simples arquivo html, sem alteraçôes.
+            >Simples arquivo html, sem alteraçôes.<br>
       </p>
       <h2>Observações:</h2>
       <p>
-            Apos dar upload ou sobrepor os arquivos no site ele ira ficar assim:
-            <a href="https://imgur.com/ABND0jj"><img src="https://i.imgur.com/ABND0jj.png" title="source: imgur.com" /></a>
-            Assim, esta tudo certo para rodar o jogo, Divirta-se!
+            Apos dar upload ou sobrepor os arquivos no site ele ira ficar assim:<br>
+            <a href="https://imgur.com/ABND0jj"><img src="https://i.imgur.com/ABND0jj.png" title="source: imgur.com" /></a><br>
+            Assim, esta tudo certo para rodar o jogo, Divirta-se!<br>
       </p>
       <h3>Referencias:</h3>
 </html>
