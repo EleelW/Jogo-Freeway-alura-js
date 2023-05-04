@@ -1,6 +1,4 @@
-# Índice
-* [Imagens](#imagens)
-* [Sons](#sons)
+
 <h1 align="center">Jogo baseado em Freeaway</h1>
 <p align="center">
 <a  href="https://imgur.com/qrK6n95"><img src="https://i.imgur.com/qrK6n95.png" title="source: imgur.com" /></a><br>
@@ -25,7 +23,9 @@ Apos entrar, deve criar duas pastas.
 <h3>ator.js</h3>
 <h4>Codigo do personagem jogavel (vaquinha):</h4>
 > Função  mostraAtor():<br>
+      <p>
       Desenha o ator na tela. <br><br>
+      </p>
 > Função movimentaAtor():<br>
       Movimenta o ator ultilizando as teclas UP_ARROW e DOWN_ARROW.<br><br>
 > Função verificaColisao():<br>
@@ -56,3 +56,6 @@ Apos entrar, deve criar duas pastas.
 > Cria variaveis para os sons.<br><br>
 > Função preload():<br>
       carrega as imagens e sons das pastas "imagens" e "sons" nas variaveis.<br><br>
+<h3>sketch.js</h3>
+> Função setup():
+      
