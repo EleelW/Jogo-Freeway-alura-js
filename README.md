@@ -92,6 +92,7 @@ https://editor.p5js.org
       </p>
 <h2 align="center">p5.collide2d.js</h2>
       <p>
+      
       >Biblioteca para colisões de objetos 2d.<br>
       >Pode acessar ultilizando:
       </p>
@@ -103,6 +104,7 @@ https://github.com/bmoren/p5.collide2D/
 <html>
       <h2 align="center">p5.js e p5.sound.min.js</h2>
       <p>
+            >Se for ultilizar no site p5 não precisa dar upload.<br>
             >Bibliotecas p5 ultilizada.<br>
             >Para saber mais entre em:
       </p>
